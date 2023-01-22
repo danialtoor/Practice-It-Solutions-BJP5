@@ -11,3 +11,6 @@ public static void printIndexed(String word){
     }
     System.out.print(emptyString);
 }
+
+
+
